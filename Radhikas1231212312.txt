@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Why Radhika Is Annoying</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+ 
+</head>
+
+<body
+  <h1><strong>Why Radhika Is <em>Annoying</em></strong> </h1>
+  <hr>
+  <h2>Reasons:</h2>
+  <ul>
+    <li>She always beats me up</li>
+    <li>She always tickles me</li>
+    <li>She always makes me cry</li>
+    <li>She always makes me feel bad</li>
+    <li>She always makes loud noises for no reason</li>
+    <li>She never listens to me</li>
+    <li>She never stops talking</li
+    <li>She always makes fun of me</li>
+    
+    
+    
+                                 
+    
+  </ul>
+  <a href="kahoot.it"><img src="ab.webp" width="100%"></a>
+  <form>
+    <label for="comment">Another Reason Why Radhika Is Annoying:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <input type="submit" value="Submit Now!!!!!!">
+   
+
+
+    
+  </form>
+  
+
+  
+  
+</body>
+
+</html>
